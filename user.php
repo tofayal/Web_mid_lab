@@ -8,9 +8,10 @@
  <fieldset>
    <center>
     <h2>Welcome Anne!</h2><br>
-    <a href="/register.html">Profile</a><br>
-    <a href="/register.html">Change Password</a><br>
-    <a href="/register.html">Logout</a><br>
+    <a href="profile.php">Profile</a><br>
+    <a href="c_pass.php">Change Password</a><br>
+    <a href="/">Logout</a><br>
+
   </center>
 
   </fieldset>

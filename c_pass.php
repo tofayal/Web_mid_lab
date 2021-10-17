@@ -15,7 +15,7 @@
     <label for="password">Retype New Password</label><br>
     <input type="password" id="r_pass" name="r_pass"><br><br>
     <input type="submit" value="Change">
-    <a href="/register.html">Home</a>
+    <a href="register.php">Home</a>
   </fieldset>
 </form>
 </body>

@@ -27,7 +27,7 @@ table, th, td {
     <td>$80</td>
   </tr>
 <tr>
-    <td colspan="2" align="right"><a href="/register.html">Go Home</a></td>
+    <td colspan="2" align="right"><a href="register.php">Go Home</a></td>
 
 </table>
 </body>

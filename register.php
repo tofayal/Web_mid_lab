@@ -5,7 +5,7 @@
 	<title>REGISTRATION</title>
 </head>
 <body>
-<form action="/action_page.php">
+<form action="sign_in.php">
   <fieldset style="width:0px">
     <legend>REGISTRATION</legend>
     <label for="id">Id</label><br>
@@ -24,7 +24,7 @@
   <label for="admin">Admin</label><br>
     
     <input type="submit" value="Sign Up">
-    <a href="/sign_in.html">Sign In</a>
+    <a href="sign_in.php">Sign In</a>
   </fieldset>
 </form>
 </body>

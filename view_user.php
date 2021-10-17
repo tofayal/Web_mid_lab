@@ -26,7 +26,7 @@ table, th, td {
   </tr>
   
 <tr>
-    <td colspan="3" align="right"><a href="/register.html">Go Home</a></td>
+    <td colspan="3" align="right"><a href="register.php">Go Home</a></td>
 
 </table>
 </body>
